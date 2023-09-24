@@ -1,0 +1,149 @@
+{
+  "catalogue": {
+    "name": "Gaslands",
+    "id": "0139-7751-4542-5c90",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "55c7-45e5-b4ec-d17c",
+    "gameSystemRevision": 18,
+    "library": false,
+    "revision": 4,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "entryLinks": [
+      {"name": "Bike", "id": "dcb1-8c0e-c647-a042", "collective": false, "hidden": false, "import": true, "targetId": "b5d8-cf00-181a-b503", "type": "selectionEntry"},
+      {
+        "name": "Buggy / Trike / Bike & Sidecar",
+        "id": "9f49-c392-c136-6351",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "b242-a818-85e6-b6db",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Bus / Coach",
+        "id": "4cea-7fd4-5ef2-fc20",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "97fe-b03b-81d4-936f",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Car / Jeep",
+        "id": "ebb5-bde6-e221-9acc",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "5fc8-4273-0b18-c611",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Monster Truck",
+        "id": "74fb-9508-ed15-1ad8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c596-f85f-ae8b-fa32",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Performance Car",
+        "id": "4cb2-7fe9-0956-2d90",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "c4d1-c411-d2c4-c182",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Pickup Truck / Van / Tractor",
+        "id": "c998-86ca-6c3e-a3fa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "de6f-4971-d7ee-d6ea",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "War Rig",
+        "id": "d654-0e96-f231-fcd8",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "94de-e05a-c0db-5fb6",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Gyrocopter",
+        "id": "a47e-3d50-44dd-f26b",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "f964-c263-ff17-1fc5",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Helicopter",
+        "id": "8981-6383-68e6-d8b5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "93be-e146-d79b-13d6",
+        "type": "selectionEntry"
+      },
+      {"name": "Tank", "id": "39ce-de91-63ff-f7f7", "collective": false, "hidden": false, "import": true, "targetId": "5c3b-7e88-5b9a-51cd", "type": "selectionEntry"},
+      {
+        "name": "Heavy Truck",
+        "id": "7455-b8bb-c026-47f5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "publicationId": "0139-7751-pubN65785",
+        "targetId": "1ef7-5239-685e-10a7",
+        "type": "selectionEntry",
+        "categoryLinks": [{"name": "New CategoryLink", "id": "ad80-e22f-0c71-6363", "hidden": false, "primary": true, "targetId": "fcb8-8c55-ab34-03d1"}]
+      },
+      {
+        "name": "Ambulance",
+        "id": "a05e-6696-b9bb-8566",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "publicationId": "0139-7751-pubN65785",
+        "targetId": "8f6d-bc80-86c2-2114",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Bike with Sidecar",
+        "id": "67bd-5927-c36c-65b5",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "publicationId": "0139-7751-pubN65785",
+        "targetId": "e963-efe5-63a4-a278",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Drag Racer",
+        "id": "1353-1732-b9db-4148",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "targetId": "8847-cf34-415b-e9e0",
+        "type": "selectionEntry"
+      },
+      {
+        "name": "Ice Cream Truck",
+        "id": "1b19-e069-376a-ecaa",
+        "collective": false,
+        "hidden": false,
+        "import": true,
+        "publicationId": "0139-7751-pubN65785",
+        "targetId": "6682-7091-0233-0818",
+        "type": "selectionEntry"
+      }
+    ],
+    "publications": [{"name": "TX3", "id": "0139-7751-pubN65785"}]
+  }
+}
